@@ -9,9 +9,15 @@
 </p>
 
 <p align="center">
-   <b>A comprehensive mobile application that makes medical laboratory tests easy to understand for patients, students, and healthcare professionals.</b><br>
+   <b>A comprehensive mobile application that makes medical laboratory tests easy to understand for patients, students, and healthcare professionals.</b><br><br>
    <i>Built with React Native & Expo — bridging the gap between medical complexity and clarity.</i>
 </p>
+
+<p align="center">
+  <b>Contact on below email for Code and Collaboration, this App is not for free.</b><br>
+   
+</p>
+
 
 <p align="center">
    <a href="#features"><img src="https://img.shields.io/badge/Features-8+-blue" alt="Features"/></a>
