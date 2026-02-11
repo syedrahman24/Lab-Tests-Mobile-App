@@ -1,7 +1,11 @@
 # 🧪 LaboraX – Modern Digital Health Companion
 
 <p align="center">
-   <img src="assets/app-icon.svg" alt="LaboraX Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_58_11_88_1f8121710791fdbd54422c3569d0a138.jpg" alt="LaboraX Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_58_17_77_1f8121710791fdbd54422c3569d0a138.jpg" alt="LaboraX Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_58_26_06_1f8121710791fdbd54422c3569d0a138.jpg" alt="LaboraX Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_58_31_65_1f8121710791fdbd54422c3569d0a138.jpg" alt="LaboraX Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_58_36_67_1f8121710791fdbd54422c3569d0a138.jpg" alt="LaboraX Icon" width="120"/>
 </p>
 
 <p align="center">
